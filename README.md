@@ -32,7 +32,13 @@ The project combines **YOLO-based object detection**, **IoU-based multi-object t
 - 📡 WebSocket-based frame and detection communication
 
 ---
+## 📚 Dataset
 
+The object detection model was trained using the
+[Playing Cards Object Detection Dataset](https://www.kaggle.com/datasets/andy8744/playing-cards-object-detection-dataset)
+by Andy8744 on Kaggle.
+
+**License:** CC0: Public Domain
 ## 🧠 System Architecture
 
 ```text
@@ -79,3 +85,4 @@ The project combines **YOLO-based object detection**, **IoU-based multi-object t
                     │ Count Statistics    │
                     │ Detection Log       │
                     └─────────────────────┘
+
