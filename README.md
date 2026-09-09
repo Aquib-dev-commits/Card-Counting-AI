@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,react,vite,tailwind,websocket,git,github" />
+</p>
+
 # 🃏 Card Counting AI
 
 ### Real-Time Playing Card Detection, Tracking & Counting
